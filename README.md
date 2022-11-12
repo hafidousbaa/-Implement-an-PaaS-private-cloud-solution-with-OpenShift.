@@ -5,10 +5,9 @@
 **create virtual machine and update it**
 
 
-```
-     - 
+```yaml
         * minimum requirements 
-           ```
+        
            -Ubuntu
            -16 Go RAM
            -100 Go hard disk 
