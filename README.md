@@ -9,9 +9,9 @@
      - 
         * minimum requirements 
            ```
-           - Ubuntu
-           - 16 Go RAM
-           - 100 Go hard disk 
+           -Ubuntu
+           -16 Go RAM
+           -100 Go hard disk 
 
-           ```
+           
 ```           
