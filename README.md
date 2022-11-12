@@ -1,5 +1,5 @@
 # -Implement-an-PaaS-private-cloud-solution-with-OpenShift.
-                   ![openshift](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/langfr-330px-OpenShift-LogoType.svg.png)
+        ![openshift](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/langfr-330px-OpenShift-LogoType.svg.png)
 ----------------------------------------------------------------------
 
 **create virtual machine VM**
