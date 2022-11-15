@@ -76,7 +76,7 @@
 
 ```
 
-**Deployment a application on Openshift** 
+**Deployment an application on Openshift** 
 
 ```ts
         - oc login  // entre your user/pwd
@@ -94,7 +94,7 @@
 
 
 
-**delete a application on Openshift** 
+**To cleanup the deployment** 
 
 ```ts
         - oc delete all -l app=app // delete the pods,replicationcontroller,service,route,... everthings that create to the project.
